@@ -13,6 +13,7 @@
     "uuid": "^7.0.2"
   },
   "devDependencies": {
+    "less": "^3.11.1",
     "parcel-bundler": "^1.12.4"
   }
 }
